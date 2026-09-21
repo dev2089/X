@@ -1,1 +1,22 @@
-{"days":[{"date":"2026-09-21","day":"Day 3","title":"SSC CHSL 2026 Daily Command","summary":"Portal bootstrap page. The daily automation will publish the complete verified command sheet here."}]}
+{
+  "days": [
+    {
+      "date": "2026-09-19",
+      "day": "Day 1",
+      "title": "SSC CHSL 2026 | Day 1 Daily Command | 19 September 2026",
+      "summary": "Historical Day 1 foundation pack with English, Reasoning, Quant, Static GA, Current Affairs, Computer and Typing."
+    },
+    {
+      "date": "2026-09-20",
+      "day": "Day 2",
+      "title": "SSC CHSL 2026 | Day 2 Daily Command | 20 September 2026",
+      "summary": "Full Day 2 Daily Command Sheet preserved from the actual Outlook delivery."
+    },
+    {
+      "date": "2026-09-21",
+      "day": "Day 3",
+      "title": "SSC CHSL 2026 | Daily Command | 21 September 2026",
+      "summary": "Current Day 3 record reserved for the next complete production run."
+    }
+  ]
+}
