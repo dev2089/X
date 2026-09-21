@@ -1,1 +1,163 @@
-{"date":"2026-09-21","title":"SSC CHSL 2026 | Daily Command | 21 September 2026","intro":"This is the web portal for the SSC CHSL 2026 daily command sheet. The production automation will publish the complete text-equivalent content here each morning, with real verified source links.","sections":[{"type":"System","title":"Template Locked","items":["Same approved command-sheet structure every day.","Every NEW item must be genuinely fresh for that run.","Older completed material may return only under explicit REVISION, RETEST, TIMED PRACTICE, MIXED PRACTICE, SECTIONAL TEST or MOCK labels.","Historical dated pages remain preserved."]},{"type":"Delivery","title":"Two-Email Model","items":["Email 1: complete plain-text-compatible command sheet.","Email 2: separate web-version email linking to the corresponding dated page.","Both formats use the same underlying study information."]},{"type":"Sources","title":"Source Discipline","links":[{"label":"SSC official website","url":"https://ssc.gov.in/"},{"label":"SATHEE SSC CHSL","url":"https://sathee.iitk.ac.in/sathee-ssc/ssc-exams/ssc-chsl/"}]}],"template_source":"data/MASTER_TEMPLATE.md","web_version":{"route":"https://dailyupdates-psi.vercel.app/days/2026-09-21","same_substantive_content_as_email":true},"email_version":{"type":"Outlook plain text","same_substantive_content_as_web":true}}
+{
+  "date": "2026-09-21",
+  "day": "Day 3",
+  "title": "SSC CHSL 2026 | Day 3 Daily Command | 21 September 2026",
+  "template_source": "data/MASTER_TEMPLATE.md",
+  "portal": "https://dailyupdates-psi.vercel.app/",
+  "web_route": "https://dailyupdates-psi.vercel.app/days/2026-09-21",
+  "email_subject": "SSC CHSL 2026 | Day 3 Daily Command Sheet | 21 September 2026",
+  "fullText": "Good morning,\n\nToday is 21 September 2026.\n\nThis is Day 3 of your SSC CHSL 2026 preparation system.\n\nYou have already applied for the Staff Selection Commission Combined Higher Secondary (10+2) Level Examination, 2026.\n\nThis is your daily command sheet, not a reminder.\n\nThe objective:\nStudy.\nSolve.\nCheck.\nUnderstand.\nRevise.\nTest.\nRecord.\nImprove.\n\nWHAT / WHERE / WHEN\nWHAT: Complete every block below.\nWHERE: Use the direct resources listed here.\nWHEN: Follow the timetable. Move interrupted blocks rather than deleting them.\n\n━━━━━━━━━━━━━━━━━━\n🎯 THE NON-NEGOTIABLE RULE\n━━━━━━━━━━━━━━━━━━\n\nEvery question, example, vocabulary item, current-affairs fact, lesson and exercise enters the tracker.\n\nDay 1 and Day 2 are completed historical records. Their material is not NEW today. Older material may return only as REVISION, RETEST, MISTAKE CORRECTION, TIMED PRACTICE, MIXED PRACTICE, SECTIONAL TEST or MOCK.\n\nQuestion priority:\n1. SSC syllabus alignment\n2. SSC/PYQ-style patterns\n3. High-frequency concepts\n4. Strong fundamentals\n5. Current exam relevance\n6. Difficulty progression from recorded performance\n\nHIGH-VALUE QUESTION = relevant concept + SSC-style pattern + realistic difficulty + useful practice.\n\n━━━━━━━━━━━━━━━━━━\n🎯 21 SEPTEMBER 2026 | LIVE SSC STATUS\n━━━━━━━━━━━━━━━━━━\n\nExamination: SSC Combined Higher Secondary (10+2) Level Examination, 2026.\nApplicable posts: LDC/JSA, DEO, DEO Grade 'A'.\nApplication status: APPLIED.\n\nOfficial SSC portal checked:\nhttps://ssc.gov.in/home\n\nNO NEW OFFICIAL EXAM-DATE UPDATE.\n\nDo not convert an old tentative calendar window into an exact date. Exact Tier-I, city-intimation, admit-card, answer-key, result and Tier-II dates are NOT RECORDED as confirmed unless SSC publishes them.\n\n━━━━━━━━━━━━━━━━━━\n📚 MASTER SSC CHSL COVERAGE MAP\n━━━━━━━━━━━━━━━━━━\n\nENGLISH\nSpot the Error • Fill in the Blanks • Synonyms • Antonyms • Homonyms • Spellings • Idioms and Phrases • One Word Substitution • Sentence Improvement • Active/Passive Voice • Direct/Indirect Speech • Rearrangement • Cloze Test • Reading Comprehension\n\nREASONING\nAnalogy • Classification • Series • Coding-Decoding • Venn Diagrams • Blood Relations • Direction/Space • Figural Classification • Figural Series • Embedded Figures • Paper Folding • Problem Solving • Drawing Inferences • Critical Thinking • Word Building • Numerical Operations • Symbolic Operations • Emotional Intelligence • Social Intelligence • Verbal/Non-Verbal Reasoning\n\nQUANT\nNumber System • Whole Numbers • Decimals/Fractions • Percentage • Ratio/Proportion • Square Roots • Average • Simple/Compound Interest • Profit/Loss • Discount • Partnership • Mixture/Alligation • Time/Work • Time/Speed/Distance • Algebra • Geometry • Mensuration • Trigonometry • Statistics • Probability • Tables/Graphs/Charts\n\nGENERAL AWARENESS\nCurrent Affairs • History • Culture • Geography • Economy • General Policy • Scientific Research • India and neighbours • Everyday scientific developments\n\nCURRENT AFFAIRS REMAINS SEPARATE FROM STATIC GA.\n\n━━━━━━━━━━━━━━━━━━\n🧠 TODAY'S ACTUAL ENGLISH WORK\n━━━━━━━━━━━━━━━━━━\n\nACTIVE MICRO-TOPIC: DIRECT/INDIRECT SPEECH, QUESTIONS AND IMPERATIVES.\nSTATUS: NEW FOCUSED SUB-PATTERN.\n\nRULES\n• Yes/no questions normally use if/whether.\n• Wh-questions retain the question word but use statement order.\n• Do/does/did normally disappears in reported questions.\n• Commands use reporting verb + object + to + verb.\n• Negative commands use object + not to + verb.\n• Universal truths can retain present tense.\n\nEXAMPLES\nHe said, \"Are you ready?\" → He asked me if I was ready.\nShe said, \"Why are you late?\" → She asked why I was late.\nFather said to me, \"Do not waste time.\" → Father advised me not to waste time.\n\n10 FRESH QUESTIONS\n\nQ1. He said to me, \"Have you finished the assignment?\"\nA) He told me that I had finished the assignment.\nB) He asked me if I had finished the assignment.\nC) He asked me that I have finished the assignment.\nD) He said me whether I finished the assignment.\n\nQ2. She said to him, \"Why are you late?\"\nA) She asked him why he was late.\nB) She asked him why was he late.\nC) She told him why he is late.\nD) She asked that why he had late.\n\nQ3. The officer said to the clerk, \"Do not open the file.\"\nA) The officer ordered the clerk do not open the file.\nB) The officer told that the clerk did not open the file.\nC) The officer instructed the clerk not to open the file.\nD) The officer said the clerk not opened the file.\n\nQ4. Rohan said, \"Can I use your laptop?\"\nA) Rohan asked if he could use my laptop.\nB) Rohan asked that can he use my laptop.\nC) Rohan told me if I could use his laptop.\nD) Rohan said whether he can use my laptop.\n\nQ5. The teacher said to the students, \"Why did you miss the class?\"\nA) The teacher asked the students why they had missed the class.\nB) The teacher asked the students why had they missed the class.\nC) The teacher told the students why they miss the class.\nD) The teacher asked why did they miss the class.\n\nQ6. Mother said to Anu, \"Please close the window.\"\nA) Mother ordered Anu that close the window.\nB) Mother requested Anu to close the window.\nC) Mother said Anu closed the window.\nD) Mother asked Anu that she closes the window.\n\nQ7. He said, \"Is this your book?\"\nA) He asked whether that was my book.\nB) He asked whether was that my book.\nC) He said that this is your book.\nD) He asked that is this my book.\n\nQ8. The doctor said to the patient, \"Take the medicine regularly.\"\nA) The doctor advised the patient to take the medicine regularly.\nB) The doctor said that the patient takes the medicine regularly.\nC) The doctor asked the patient that take medicine.\nD) The doctor advised that the patient took the medicine.\n\nQ9. The teacher said, \"The Earth revolves around the Sun.\"\nA) The teacher said that the Earth revolved around the Sun.\nB) The teacher said that the Earth revolves around the Sun.\nC) The teacher said that the Earth had revolved around the Sun.\nD) The teacher asked whether the Earth revolves around the Sun.\n\nQ10. She said to me, \"Will you help me tomorrow?\"\nA) She asked me if I would help her the next day.\nB) She asked me if I will help me tomorrow.\nC) She told me whether I would help her tomorrow.\nD) She asked that would I help her the next day.\n\nANSWER KEY: 1-B, 2-A, 3-C, 4-A, 5-A, 6-B, 7-A, 8-A, 9-B, 10-A.\n\nVOCABULARY\nPrudent = careful and sensible.\nReluctant = unwilling or hesitant.\nLucid = clear and easy to understand.\nObsolete = no longer in use.\nResilient = able to recover from difficulty.\nWrite one original sentence for each.\n\n━━━━━━━━━━━━━━━━━━\n🧩 REASONING | TODAY'S ACTIVE ROTATION\n━━━━━━━━━━━━━━━━━━\n\nACTIVE MICRO-TOPIC: VENN-DIAGRAM COUNTING.\nSTATUS: NEW FOCUSED APPLICATION.\n\nFor two sets:\nn(A∪B) = n(A)+n(B)-n(A∩B).\n\nFor three sets:\nn(A∪B∪C) = n(A)+n(B)+n(C)-n(A∩B)-n(B∩C)-n(C∩A)+n(A∩B∩C).\n\nThe triple overlap is added once because it was subtracted three times.\n\nQ1. 40 students like tea, 30 like coffee and 20 like both. How many like at least one?\nA) 40 B) 50 C) 60 D) 70\n\nQ2. 28 students like Maths, 24 like Science and 10 like both. How many like exactly one?\nA) 32 B) 42 C) 52 D) 62\n\nQ3. 50 study Hindi, 35 study English and 15 study both. If there are 80 students, how many study neither?\nA) 5 B) 10 C) 15 D) 20\n\nQ4. 30 use A, 25 use B, 20 use C; 10 use A&B, 8 use B&C, 7 use C&A, and 5 use all three. How many use at least one?\nA) 55 B) 60 C) 65 D) 70\n\nQ5. 45 play cricket, 32 play football and 18 play both. How many play only cricket?\nA) 13 B) 18 C) 27 D) 32\n\nQ6. n(A)=52, n(B)=41 and n(A∪B)=70. Find n(A∩B).\nA) 13 B) 21 C) 23 D) 29\n\nQ7. A∩B=12, B∩C=9, C∩A=8 and A∩B∩C=5. Find the sum of the three pairwise-only regions.\nA) 9 B) 14 C) 19 D) 24\n\nQ8. 55 read newspaper X, 45 read Y and 20 read both. Out of 100, how many read neither?\nA) 10 B) 15 C) 20 D) 25\n\nQ9. 38 know Excel, 30 know Word and 16 know both. How many know exactly one?\nA) 36 B) 38 C) 52 D) 54\n\nQ10. n(A)=25, n(B)=22, n(C)=18, pairwise intersections are 8, 6 and 5, and triple intersection is 3. Find the union.\nA) 46 B) 47 C) 49 D) 52\n\nANSWER KEY: 1-B, 2-A, 3-B, 4-A, 5-C, 6-C, 7-B, 8-C, 9-A, 10-C.\nCHECKS: Q4=55; Q7=(12-5)+(9-5)+(8-5)=14; Q10=49.\n\n━━━━━━━━━━━━━━━━━━\n➗ QUANTITATIVE APTITUDE\n━━━━━━━━━━━━━━━━━━\n\nACTIVE MICRO-TOPIC: COMPOUND INTEREST WITH HALF-YEARLY COMPOUNDING.\nSTATUS: NEW FOCUSED APPLICATION.\n\nHalf-yearly rate = annual rate ÷ 2.\nNumber of periods = years × 2.\nAmount = P(1+r/200)^(2t).\n\nQ1. Amount on ₹10,000 at 10% p.a., compounded half-yearly for 1 year?\nA) ₹11,000 B) ₹11,025 C) ₹11,100 D) ₹11,210\n\nQ2. CI on ₹8,000 at 20% p.a., compounded half-yearly for 1 year?\nA) ₹1,600 B) ₹1,680 C) ₹1,728 D) ₹1,760\n\nQ3. Amount on ₹5,000 at 8% p.a., compounded half-yearly for 1 year?\nA) ₹5,400 B) ₹5,408 C) ₹5,416 D) ₹5,432\n\nQ4. Effective annual rate for 12% p.a. compounded half-yearly?\nA) 12% B) 12.36% C) 12.72% D) 13.20%\n\nQ5. Amount on ₹20,000 at 10% p.a., compounded half-yearly for 2 years?\nA) ₹24,000 B) ₹24,310.125 C) ₹24,500 D) ₹25,000\n\nQ6. CI on ₹16,000 at 25% p.a., compounded half-yearly for 1 year?\nA) ₹4,000 B) ₹4,250 C) ₹4,500 D) ₹4,750\n\nQ7. CI on ₹12,000 at 10% p.a., compounded half-yearly for 2 years?\nA) ₹2,586.075 B) ₹2,650 C) ₹2,762 D) ₹2,900\n\nQ8. CI on ₹25,000 at 20% p.a., compounded half-yearly for 1 year?\nA) ₹5,000 B) ₹5,250 C) ₹5,500 D) ₹5,750\n\nQ9. Amount on ₹10,000 at 6% p.a., compounded half-yearly for 2 years?\nA) ₹11,236.48 B) ₹11,255.0881 C) ₹11,300 D) ₹11,360\n\nQ10. Amount on ₹10,000 at 20% p.a., compounded half-yearly for 2 years?\nA) ₹14,641 B) ₹14,400 C) ₹14,880 D) ₹15,000\n\nCHECKED KEY\n1-B: 10000×1.05²=11025.\n2-B: 8000×1.10²=9680, so CI=1680.\n3-B: 5000×1.04²=5408.\n4-B: 1.06²-1=12.36%.\n5-B: 20000×1.05⁴=24310.125.\n6-B: 16000×1.125²=20250, so CI=4250.\n7-A: 12000×1.05⁴=14586.075, so CI=2586.075.\n8-B: 25000×1.10²=30250, so CI=5250.\n9-B: 10000×1.03⁴=11255.0881.\n10-A: 10000×1.10⁴=14641.\n\n━━━━━━━━━━━━━━━━━━\n🌍 STATIC GENERAL AWARENESS\n━━━━━━━━━━━━━━━━━━\n\nFOCUS: INDIAN GEOGRAPHY + CONSTITUTIONAL ARTICLES.\n\nMEMORY BLOCK\n• Tropic of Cancer crosses 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram.\n• Standard Meridian of India: 82°30′E.\n• Narmada flows west into the Arabian Sea.\n• Godavari is commonly called Dakshin Ganga.\n• Fundamental Duties: Article 51A.\n• Finance Commission: Article 280.\n• Election Commission: Article 324.\n• GST Council: Article 279A.\n• 73rd Amendment: Panchayats.\n• 74th Amendment: Municipalities.\n\n10 QUESTIONS\n1. Which latitude crosses eight Indian states? A) Equator B) Tropic of Cancer C) Tropic of Capricorn D) Arctic Circle\n2. India's Standard Meridian? A)75°E B)80°E C)82°30′E D)90°E\n3. Narmada drains into? A)Bay of Bengal B)Arabian Sea C)Gulf of Mannar D)Pacific Ocean\n4. Dakshin Ganga? A)Krishna B)Kaveri C)Godavari D)Mahanadi\n5. Fundamental Duties? A)32 B)51A C)280 D)324\n6. Finance Commission? A)280 B)279A C)324 D)368\n7. Election Commission? A)280 B)315 C)324 D)356\n8. GST Council? A)279A B)280 C)300A D)312\n9. 73rd Amendment? A)Municipalities B)Panchayats C)GST D)Fundamental Duties\n10. 74th Amendment? A)Panchayats B)Municipalities C)Emergency D)Finance Commission\nANSWER KEY: 1-B,2-C,3-B,4-C,5-B,6-A,7-C,8-A,9-B,10-B.\n\n━━━━━━━━━━━━━━━━━━\n📰 CURRENT AFFAIRS | PREVIOUS ~24 HOURS\n━━━━━━━━━━━━━━━━━━\n\nEVENT 1: 72ND NATIONAL FILM AWARDS\nWHAT: PIB published a detailed factsheet on 21 September 2026.\nWHO: Ministry of Information & Broadcasting; the 72nd awards cover films certified in 2024.\nWHERE: Ceremony scheduled at Ekta Nagar, Gujarat.\nWHEN: Winners announced 18 July 2026; ceremony scheduled for 22 September 2026.\nKEY FACTS: National Film Awards were instituted in 1954. The Dadasaheb Phalke Award was instituted in 1969 and Devika Rani was its first recipient. Article 370 won Best Feature Film; Yami Gautam won Best Actress in a Leading Role; Mammootty and Kartik Aaryan shared Best Actor in a Leading Role; Rajkumar Periasamy won Best Direction for Amaran. Anant Nag is the announced Dadasaheb Phalke Award recipient for 2024.\nBACKGROUND: The first edition honoured films of 1953. The Directorate of Film Festivals was merged into NFDC in 2022.\nSSC ANGLES: years, awardee, films, institution, venue.\nTERMS: NFA = National Film Awards; NFDC = National Film Development Corporation.\nMEMORY CARD: 1954 NFA; 1969 Phalke Award; Devika Rani first recipient; 72nd NFA = 2024 films.\nSOURCE: https://www.pib.gov.in/FactsheetDetails.aspx?Id=151027&lang=3&reg=3\n\nEVENT 2: SLINEX-26\nWHAT: 13th Sri Lanka-India bilateral maritime exercise.\nWHO: Indian Navy and Sri Lanka Navy.\nWHERE: Visakhapatnam.\nWHEN: 17-21 September 2026.\nFACTS: INS Kavaratti and INS Jyoti participate for India; SLNS Sindurala represents Sri Lanka. Harbour Phase is followed by Sea Phase. SLINEX was conceptualised in 2005.\nSSC ANGLES: exercise, partners, venue, year, ships.\nMEMORY CARD: SLINEX = India-Sri Lanka maritime exercise; Visakhapatnam; 17-21 Sep 2026.\nSOURCE: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312662&lang=1&reg=3\n\nEVENT 3: ASIAN GAMES 2026 SHOOTING\nWHAT: PIB reported silver in the Women's 10m Air Rifle team event for Sonam Uttam Maskar, Elavenil Valarivan and Vidarsa K Vinod on 20 September 2026. PIB separately reported Elavenil Valarivan's silver in the individual event, her second medal of the day.\nSSC ANGLES: athlete names, sport, event, medal.\nSOURCES:\nhttps://www.pib.gov.in/PressReleasePage.aspx?PRID=2312715&lang=2&reg=48\nhttps://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312713&lang=1&reg=3\n\nEVENT 4: ENVIRONMENT AND CLIMATE DYNAMICS CONFERENCE\nWHAT: President Droupadi Murmu addressed the valedictory session of the International Conference on \"The Future of Environment and Climate Dynamics\".\nWHERE: New Delhi.\nWHEN: 20 September 2026.\nORGANISER: National Green Tribunal.\nKEY IDEAS: biodiversity loss, water stress, land degradation, food security, health and livelihoods are interconnected with climate change.\nSOURCE: https://www.pib.gov.in/PressRelesePage.aspx?PRID=2312728&lang=1&reg=3\n\nEVENT 5: UPCOMING UPASI TRF CENTENARY CONFERENCE\nWHAT: Vice-President C. P. Radhakrishnan is scheduled to visit Tamil Nadu on 21 September for the UPASI Tea Research Foundation Centenary Conference.\nWHERE: Coonoor, The Nilgiris.\nSTATUS: UPCOMING, not a completed result.\nBACKGROUND: UPASI TRF traces its origins to October 1926, when it was established as the Tea Experimental Station at Gudalur.\nSOURCE: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312708&lang=1&reg=3\n\nCURRENT-AFFAIRS MEMORY CARDS\n• NFA = 1954.\n• Dadasaheb Phalke Award = 1969; first recipient Devika Rani.\n• 72nd NFA = films of 2024; ceremony scheduled at Ekta Nagar.\n• SLINEX = India-Sri Lanka maritime exercise; 2026 venue Visakhapatnam.\n• Women's 10m Air Rifle team silver = Sonam Uttam Maskar, Elavenil Valarivan, Vidarsa K Vinod.\n• Climate conference = NGT, New Delhi.\n• UPASI TRF origin = 1926.\n\n━━━━━━━━━━━━━━━━━━\n🧪 CURRENT-AFFAIRS TEST\n━━━━━━━━━━━━━━━━━━\n\n1. National Film Awards instituted in: A)1947 B)1950 C)1954 D)1969\n2. First Dadasaheb Phalke Award recipient: A)Devika Rani B)Nargis C)Uttam Kumar D)Waheeda Rehman\n3. 72nd NFA honours films certified in: A)2022 B)2023 C)2024 D)2025\n4. SLINEX is between India and: A)Maldives B)Sri Lanka C)Indonesia D)Thailand\n5. SLINEX-26 venue: A)Kochi B)Mumbai C)Visakhapatnam D)Chennai\n6. Climate conference organiser: A)NGT B)RBI C)ISRO D)UPSC\n7. Third member named for the Women's 10m Air Rifle team: A)Vidarsa K Vinod B)Manu Bhaker C)Sift Kaur Samra D)Apurvi Chandela\n8. UPASI TRF origin: A)1905 B)1919 C)1926 D)1947\n9. 72nd NFA ceremony scheduled at: A)Mumbai B)New Delhi C)Ekta Nagar, Gujarat D)Bengaluru\n10. Dadasaheb Phalke Award for 2024: A)Anant Nag B)Mammootty C)Mohanlal D)Randeep Hooda\nANSWER KEY: 1-C,2-A,3-C,4-B,5-C,6-A,7-A,8-C,9-C,10-A.\n\n━━━━━━━━━━━━━━━━━━\n💻 TIER-II COMPUTER KNOWLEDGE\n━━━━━━━━━━━━━━━━━━\n\nFOCUS: FILES, FOLDERS AND EXTENSIONS.\n\nDefinition: A file stores information. A folder organizes files and subfolders.\n\nDISTINCTIONS\n• .docx = Word document.\n• .xlsx = spreadsheet.\n• .pptx = presentation.\n• .pdf = portable document format.\n• .jpg/.png = image formats.\n• Copy creates a duplicate.\n• Move changes the location of an existing item.\n• Rename changes the name; it does not convert the format.\n\nCOMMON MISTAKES\n• Renaming photo.jpg to photo.pdf does not convert it.\n• Do not open unknown executable attachments casually.\n• Use meaningful folder names.\n\nHANDS-ON TASK, 15 MINUTES\n1. Create SSC_CHSL_2026.\n2. Inside create English, Reasoning, Quant, GA, Computer, Typing, Current_Affairs.\n3. Create Day3_Notes.txt.\n4. Copy it to Current_Affairs.\n5. Rename the copy Day3_CA_Notes.txt.\n6. Create Revision_Queue.txt in the main folder.\n7. Move Revision_Queue.txt into English.\n8. Check every extension.\n9. Write today's mistakes in Revision_Queue.txt.\n10. Keep the original Day3_Notes.txt.\n\nSELF-TEST\n1. Spreadsheet extension? A).pptx B).xlsx C).docx D).jpg\n2. Copy creates a duplicate while Move changes location. True/False?\n3. Renaming .jpg to .pdf converts it? A)Yes B)No\n4. Main purpose of a folder? A)Increase RAM B)Organize files C)Encrypt everything D)Convert files\n5. Presentation extension? A).pptx B).xlsx C).txt D).csv\nANSWER KEY: 1-B,2-True,3-B,4-B,5-A.\nRESOURCE: https://edu.gcfglobal.org/en/computerbasics/\n\n━━━━━━━━━━━━━━━━━━\n⌨️ SKILL / TYPING TEST\n━━━━━━━━━━━━━━━━━━\n\nFresh 10-minute passage:\n\nPublic administration depends on accurate records, clear communication and timely decisions. A well-organised office does not merely store information; it makes information easier to find, verify and use. Digital systems can improve speed, but accuracy remains essential because a small typing error may change a name, number, date or reference. A responsible employee therefore checks important entries before submitting a document. Files should be given meaningful names and placed in suitable folders so that another person can understand the structure without repeated explanations. In a busy office, good habits save time. Reading a sentence before typing it, keeping both hands correctly positioned, and correcting repeated mistakes can gradually improve speed and accuracy. The goal of typing practice is not to chase speed for one session. It is to build reliable performance that remains stable when the passage becomes unfamiliar. During practice, maintain a steady rhythm, avoid unnecessary backspacing, and focus on complete words rather than individual letters. After the test, record the result honestly. The error pattern is often more useful than raw speed because it tells you what needs correction. If numbers, punctuation or capital letters cause repeated mistakes, practise those elements separately before another timed passage. Consistency is built through short, focused sessions repeated over time.\n\nWords typed: ______\nErrors: ______\nWPM: ______\nAccuracy: ______\nError pattern: ______\nTime: 10 minutes\n\nWPM = words typed ÷ 10 if your platform reports raw words.\nRecord the first attempt honestly, then do a 5-minute correction drill.\nPost-specific official typing/skill threshold: NOT RECORDED unless confirmed by the current official SSC notice.\nFree practice: https://10fastfingers.com/typing-test/english\n\n━━━━━━━━━━━━━━━━━━\n🏃 FITNESS\n━━━━━━━━━━━━━━━━━━\n\n25-30 minute gradual morning routine.\n\n0:00-6:00 WARM-UP\n3 min marching; 1 min heel digs; 30 sec knee lifts; 30 sec shoulder rolls; 1 min easy walking.\n\n6:00-21:00 MAIN\n2 min brisk walk + 1 min easy jog, repeated 5 times.\n\n21:00-26:00 COOL-DOWN\nEasy walk, progressively slowing.\n\n26:00-30:00 GENTLE MOBILITY\nCalf, hamstring and hip mobility without forcing range.\n\nNHS guidance:\nhttps://www.nhs.uk/better-health/get-active/get-running-with-couch-to-5k/couch-to-5k-running-plan/\nhttps://www.nhs.uk/Livewell/fitness/Pages/how-to-warm-up.aspx\n\nStop if you feel pain or become unwell. This is general fitness guidance, not medical advice.\nFitness completion: NOT RECORDED.\n\n━━━━━━━━━━━━━━━━━━\n📖 FREE RESOURCE STACK\n━━━━━━━━━━━━━━━━━━\n\nREAD:\nSSC official https://ssc.gov.in/home\nSATHEE SSC CHSL https://sathee.iitk.ac.in/sathee-ssc/ssc-exams/ssc-chsl/\nNCERT https://ncert.nic.in/textbook.php\nPIB https://www.pib.gov.in/\n\nWATCH:\nSATHEE SSC content for today's assigned concept only.\n\nWRITE:\n5 vocabulary sentences; labelled three-set Venn diagram; CI formula + solutions; computer folder exercise; 8 current-affairs memory cards.\n\nSOLVE:\nEnglish 10; Reasoning 10; Quant 10; Static GA 10; Current Affairs 10; Computer 5.\n\nIGNORE THE REST:\nNo random videos, unverified exam-date posts or generic motivational content during study blocks.\n\n━━━━━━━━━━━━━━━━━━\n⏰ TODAY'S COMMAND TIMETABLE\n━━━━━━━━━━━━━━━━━━\n\n06:30-07:00 Fitness + wash-up\n07:00-07:20 Breakfast/setup\n07:20-08:10 English\n08:10-08:25 Break\n08:25-09:15 Reasoning\n09:15-09:30 Break\n09:30-10:25 Quant\n10:25-10:45 Checking + mistake log\n10:45-13:30 College/fixed responsibilities + lunch\n13:30-14:00 Rest\n14:00-14:40 Static GA\n14:40-15:10 Current Affairs\n15:10-15:25 Break\n15:25-15:50 Current-Affairs Test\n15:50-16:20 Computer hands-on\n16:20-16:35 Break\n16:35-16:50 Typing\n16:50-17:00 Record result\n17:00-18:00 College/personal responsibilities\n18:00-18:30 English + Reasoning recall\n18:30-19:00 Quant formula recall\n19:00-20:00 Dinner/personal time\n20:00-20:25 Computer + Current Affairs recall\n20:25-20:45 Final recall test\n20:45-21:00 Performance report + revision queue\n21:00 onward Personal time and sleep preparation\nSleep target: consistent full-night sleep.\n\n━━━━━━━━━━━━━━━━━━\n🧠 REVISION SYSTEM\n━━━━━━━━━━━━━━━━━━\n\nWithout looking back:\n1. How are yes/no questions reported?\n2. What happens to word order in reported Wh-questions?\n3. How is a negative command reported?\n4. Write the three-set union formula.\n5. Why is the triple overlap added once?\n6. State the half-yearly CI formula.\n7. Name the 8 Tropic of Cancer states.\n8. Article for Fundamental Duties?\n9. Article for Finance Commission?\n10. What is SLINEX?\n11. What is .xlsx?\n12. What was today's typing WPM?\n\nForgotten once = REVISION tonight.\nWrong twice = RETEST next rotation.\nSlow but accurate = TIMED PRACTICE.\nRepeated error = MISTAKE CORRECTION.\n\n━━━━━━━━━━━━━━━━━━\n📝 FINAL ACTIVE-RECALL TEST\n━━━━━━━━━━━━━━━━━━\n\nTime: 12 minutes. No notes.\n\n1. Convert: She said, \"Why are you late?\"\n2. Convert: Father said to me, \"Do not waste time.\"\n3. Find n(A∪B): n(A)=52, n(B)=41, n(A∩B)=23.\n4. Find amount on ₹10,000 at 10% p.a. half-yearly for 1 year.\n5. Fundamental Duties: Article?\n6. Finance Commission: Article?\n7. What is SLINEX?\n8. Where is SLINEX-26?\n9. First Dadasaheb Phalke Award recipient?\n10. What does .pptx mean?\n11. Copy vs Move?\n12. Your first typing WPM and accuracy?\n\nANSWER KEY\n1. She asked why I was late.\n2. Father advised/told me not to waste time.\n3. 70.\n4. ₹11,025.\n5. Article 51A.\n6. Article 280.\n7. India-Sri Lanka bilateral maritime exercise.\n8. Visakhapatnam.\n9. Devika Rani.\n10. PowerPoint presentation.\n11. Copy duplicates; Move changes location.\n12. Personal result, NOT RECORDED.\n\n━━━━━━━━━━━━━━━━━━\n✅ END-OF-DAY PERFORMANCE REPORT\n━━━━━━━━━━━━━━━━━━\n\nDo not fabricate scores.\n\nEnglish: attempted ___ / correct ___ / wrong ___ / skipped ___ / accuracy ___ / time ___\nReasoning: attempted ___ / correct ___ / wrong ___ / skipped ___ / accuracy ___ / time ___\nQuant: attempted ___ / correct ___ / wrong ___ / skipped ___ / accuracy ___ / time ___\nStatic GA: attempted ___ / correct ___ / wrong ___ / skipped ___\nCurrent Affairs: attempted ___ / correct ___ / wrong ___ / skipped ___ / accuracy ___\nComputer completion: ___\nTyping WPM: ___\nTyping errors: ___\nTyping accuracy: ___\nFitness completion: ___\nFocused minutes: ___\nStrongest area: NOT RECORDED\nWeakest area: NOT RECORDED\nMost common mistake: NOT RECORDED\nMastered concept: NOT RECORDED\nRevision-needed concept: NOT RECORDED\n\n━━━━━━━━━━━━━━━━━━\n🔁 PROGRESSION\n━━━━━━━━━━━━━━━━━━\n\nNEW CONCEPT\n↓\n10 FRESH QUESTIONS\n↓\nANSWER ANALYSIS\n↓\nMISTAKE LOG\n↓\nSCHEDULED REVISION\n↓\nRETEST\n↓\nTIMED PRACTICE\n↓\nSECTIONAL TEST\n↓\nMIXED TEST\n↓\nFULL MOCK\n↓\nEXAM SIMULATION\n\nToday's tracked NEW focus:\nEnglish focused narration; Reasoning Venn counting; Quant half-yearly CI; Static GA geography/articles; Computer files/folders/extensions; fresh typing; verified current affairs.\n\n━━━━━━━━━━━━━━━━━━\n📨 DELIVERY FORMAT 1 | EMAIL VERSION\n━━━━━━━━━━━━━━━━━━\n\nThis is the complete Email Version 1.\n\nSubject:\nSSC CHSL 2026 | Day 3 Daily Command Sheet | 21 September 2026\n\nNo teaser.\nNo shortened summary.\nNo scheduler-status message.\n\n━━━━━━━━━━━━━━━━━━\n🌐 DELIVERY FORMAT 2 | WEB VERSION\n━━━━━━━━━━━━━━━━━━\n\nDaily route:\nhttps://dailyupdates-psi.vercel.app/days/2026-09-21\n\nThe web page must contain the same substantive information as Email 1.\n\nArchive must preserve Day 1, Day 2 and Day 3.\n\nPresentation: polished glassmorphism-first UI, subtle editorial accents, mobile-first readability, restrained motion, readable typography, frosted cards, clear hierarchy, visible links, no excessive gradients, no clutter and no decorative filler.\n\n━━━━━━━━━━━━━━━━━━\n💾 HISTORY + CONTINUITY\n━━━━━━━━━━━━━━━━━━\n\nDaily JSON: data/2026-09-21.json\nArchive: data/archive.json\nTemplate: data/MASTER_TEMPLATE.md\nWeb route: https://dailyupdates-psi.vercel.app/days/2026-09-21\n\nDay 3 replaces the reserved placeholder for 21 September 2026. Day 1 and Day 2 remain preserved.\n",
+  "sections": [
+    {
+      "type": "System",
+      "title": "Day 3 Command Structure",
+      "items": [
+        "Canonical master structure retained.",
+        "Day 1 and Day 2 treated as completed history.",
+        "Fresh focused sub-patterns selected for Day 3."
+      ]
+    },
+    {
+      "type": "English",
+      "title": "English | Day 3",
+      "items": [
+        "Direct/Indirect Speech questions and imperatives; 10 fresh questions; vocabulary."
+      ]
+    },
+    {
+      "type": "Reasoning",
+      "title": "Reasoning | Day 3",
+      "items": [
+        "Venn-diagram counting; 10 fresh questions with checked arithmetic."
+      ]
+    },
+    {
+      "type": "Quant",
+      "title": "Quantitative Aptitude | Day 3",
+      "items": [
+        "Half-yearly compound interest; 10 fresh questions with checked calculations."
+      ]
+    },
+    {
+      "type": "Static GA",
+      "title": "Static General Awareness | Day 3",
+      "items": [
+        "Indian geography and constitutional articles; 10 questions."
+      ]
+    },
+    {
+      "type": "Current Affairs",
+      "title": "Current Affairs | Day 3",
+      "items": [
+        "Five selected developments from the previous approximately 24 hours with official PIB sources, SSC angles and memory cards."
+      ]
+    },
+    {
+      "type": "Current Affairs Test",
+      "title": "Current-Affairs Test",
+      "items": [
+        "10 questions based only on today's taught current affairs."
+      ]
+    },
+    {
+      "type": "Computer",
+      "title": "Tier-II Computer | Day 3",
+      "items": [
+        "Files, folders, extensions, practical task and self-test."
+      ]
+    },
+    {
+      "type": "Typing",
+      "title": "Typing | Day 3",
+      "items": [
+        "Fresh 10-minute passage with WPM, errors, accuracy and error-pattern fields."
+      ]
+    },
+    {
+      "type": "Fitness",
+      "title": "Fitness | Day 3",
+      "items": [
+        "Gradual 25-30 minute routine with NHS guidance."
+      ]
+    },
+    {
+      "type": "Resources",
+      "title": "Free Resource Stack",
+      "items": [
+        "SSC, SATHEE, NCERT, PIB, GCFGlobal, 10FastFingers and NHS."
+      ]
+    },
+    {
+      "type": "Timetable",
+      "title": "Command Timetable",
+      "items": [
+        "Concrete study blocks, breaks, responsibilities, recall and sleep target."
+      ]
+    },
+    {
+      "type": "Recall",
+      "title": "Revision + Final Test",
+      "items": [
+        "Active recall prompts and 12-question final test."
+      ]
+    },
+    {
+      "type": "Performance",
+      "title": "Performance Report",
+      "items": [
+        "No user performance fabricated; unavailable values remain blank or NOT RECORDED."
+      ]
+    },
+    {
+      "type": "Progression",
+      "title": "Progression",
+      "items": [
+        "NEW → 10 FRESH QUESTIONS → ANSWER ANALYSIS → MISTAKE LOG → REVISION → RETEST → TIMED PRACTICE → SECTIONAL → MIXED → MOCK → EXAM SIMULATION."
+      ]
+    },
+    {
+      "type": "History",
+      "title": "History / Continuity",
+      "items": [
+        "data/2026-09-21.json, data/archive.json and data/MASTER_TEMPLATE.md; Day 1 and Day 2 preserved."
+      ]
+    }
+  ],
+  "current_affairs_sources": [
+    "https://www.pib.gov.in/FactsheetDetails.aspx?Id=151027&lang=3&reg=3",
+    "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312662&lang=1&reg=3",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312715&lang=2&reg=48",
+    "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312713&lang=1&reg=3",
+    "https://www.pib.gov.in/PressRelesePage.aspx?PRID=2312728&lang=1&reg=3",
+    "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2312708&lang=1&reg=3"
+  ],
+  "resources": [
+    "https://ssc.gov.in/home",
+    "https://sathee.iitk.ac.in/sathee-ssc/ssc-exams/ssc-chsl/",
+    "https://ncert.nic.in/textbook.php",
+    "https://www.pib.gov.in/",
+    "https://edu.gcfglobal.org/en/computerbasics/",
+    "https://10fastfingers.com/typing-test/english",
+    "https://www.nhs.uk/better-health/get-active/get-running-with-couch-to-5k/couch-to-5k-running-plan/",
+    "https://www.nhs.uk/Livewell/fitness/Pages/how-to-warm-up.aspx"
+  ],
+  "performance": {
+    "attempted": "",
+    "correct": "",
+    "wrong": "",
+    "skipped": "",
+    "accuracy": "",
+    "time": "",
+    "typing_wpm": "",
+    "typing_errors": "",
+    "typing_accuracy": "",
+    "computer_completion": "",
+    "fitness_completion": "",
+    "focused_minutes": "",
+    "strongest_area": "NOT RECORDED",
+    "weakest_area": "NOT RECORDED",
+    "most_common_mistake": "NOT RECORDED",
+    "mastered_concept": "NOT RECORDED",
+    "revision_needed_concept": "NOT RECORDED"
+  }
+}
