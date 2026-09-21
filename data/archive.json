@@ -18,5 +18,10 @@
       "title": "SSC CHSL 2026 | Daily Command | 21 September 2026",
       "summary": "Current Day 3 record reserved for the next complete production run."
     }
-  ]
+  ],
+  "template_source": "data/MASTER_TEMPLATE.md",
+  "portal": {
+    "home": "https://dailyupdates-psi.vercel.app/",
+    "daily_route_pattern": "https://dailyupdates-psi.vercel.app/days/YYYY-MM-DD"
+  }
 }
